@@ -5,5 +5,5 @@ Python is my first language. I live in Moscow, Russia.
 
 ### Contact with me
 mailto:boison88@mail.ru
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic&logo=telegram&logoColor=white)(https://t.me/boison88)
 
